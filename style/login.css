@@ -1,0 +1,9 @@
+body {
+    font-family: "Fira Sans", sans-serif;
+    margin: 0;
+    background-image: url("/image/nganh-thiet-ke-do-hoa-dai-hoc-my-thuat-cong-nghiep-ha-noi-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top -70px;
+    position: relative;
+}
