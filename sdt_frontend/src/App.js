@@ -2,7 +2,10 @@
 import Homepage from "./pages/homepage";
 function App() {
   return (
+    <>
       <Homepage />
+      Xem có auto deploy k
+      </>
   );
 }
 
